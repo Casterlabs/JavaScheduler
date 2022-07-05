@@ -1,0 +1,14 @@
+.DS_Store
+
+# IntelliJ
+*.iml
+.idea/
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# Common
+*target/
+src/main/java/co/casterlabs/javascheduler/Test.java
